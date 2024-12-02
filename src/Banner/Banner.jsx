@@ -1,7 +1,14 @@
-import React from "react";
+import React, { useContext } from "react";
 import Card from "./Card";
+import { AuthContext } from "../AuthProvider/AuthProvider";
 
 const Banner = () => {
+
+
+  // const {hello}=useContext(AuthContext);
+  // console.log(hello)
+  
+
   return (
     <div>
       <div className="carousel w-full">
