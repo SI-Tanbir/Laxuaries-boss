@@ -1,0 +1,56 @@
+
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa in Beverly Hills",
+      "segment_name": "Residential",
+      "description": "A beautiful luxury villa with a modern design and spacious outdoor area.",
+      "price": "$3,500,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Beverly Hills, CA",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Home Theater"],
+      "image": "https://i.ibb.co.com/cXbf4DC/3113.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 2,
+      "estate_title": "Modern Apartment in Manhattan",
+      "segment_name": "Residential",
+      "description": "A stylish apartment in the heart of Manhattan with stunning skyline views.",
+      "price": "$6,000/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Manhattan, NY",
+      "facilities": ["Living Room", "Gym Access", "Kitchen"],
+      "image": "https://i.ibb.co.com/7ynVWtL/71-copy-1024x681.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 3,
+      "estate_title": "Cozy Cottage in Vermont",
+      "segment_name": "Residential",
+      "description": "A quaint and cozy cottage surrounded by lush greenery.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Vermont, VT",
+      "facilities": ["Living Room", "Fireplace", "Kitchen", "Garden"],
+      "image": "https://i.ibb.co.com/b3WHcgY/vermont-cozy-cabin-roxbury-1024x661.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 4,
+      "estate_title": "Beachfront Condo in Miami",
+      "segment_name": "Residential",
+      "description": "A sleek beachfront condo with breathtaking ocean views and modern amenities.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Miami, FL",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Balcony"],
+      "image": "https://i.ibb.co.com/SrJfv1d/desktop-slideshow-img-20141202115330.jpg",
+      "view_property_button": "View Property"
+    }
+  ]
+  
