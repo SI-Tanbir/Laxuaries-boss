@@ -1,8 +1,10 @@
 
 import { createBrowserRouter } from "react-router";
 
-import React from 'react'
+
 import App from "../App";
+import Login from "../Login/Login";
+import Register from "../Register/Register";
 
 
     let router = createBrowserRouter([
@@ -11,6 +13,14 @@ import App from "../App";
         {
             path:'/',
             element:<App></App>
+        },
+        {
+            path:'/login',
+            element:<Login></Login>
+        },
+        {
+            path:'/register',
+            element:<Register></Register>
         }
 
         

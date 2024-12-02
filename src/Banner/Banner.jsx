@@ -1,12 +1,19 @@
 import React, { useContext } from "react";
 import Card from "./Card";
 import { AuthContext } from "../AuthProvider/AuthProvider";
+import { getAuth } from "firebase/auth";
+import app from "../AuthProvider/firebaseConfig";
+
 
 const Banner = () => {
 
 
   // const {hello}=useContext(AuthContext);
   // console.log(hello)
+
+ 
+
+
   
 
   return (

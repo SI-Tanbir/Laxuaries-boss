@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@egjs/react-flicking": "^4.11.4",
+    "firebase": "^11.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router": "^7.0.1"

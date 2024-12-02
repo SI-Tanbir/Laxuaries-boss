@@ -2,6 +2,7 @@
 
 
 import React from 'react'
+import { Link } from 'react-router'
 
 const Navbar = () => {
   return (
@@ -18,7 +19,9 @@ const Navbar = () => {
 
         
         
-              <li><button className='btn btn-secondary'>Login</button></li>
+              <li><Link to={'/login'}>
+              <button className='btn btn-secondary'>Login</button>
+              </Link></li>
            
           
 
